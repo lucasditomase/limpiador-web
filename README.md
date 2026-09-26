@@ -2,7 +2,7 @@
 
 ## Política de privacidad
 
-- Esta aplicación no recopila datos de usuario.
+- Esta aplicación no recopila datos personales.
 
 ## Términos de servicio
 
