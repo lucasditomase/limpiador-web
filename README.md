@@ -1,11 +1,11 @@
 # Limpiador web
 
-## Política de privacidad
+## [Política de privacidad](politica-de-privacidad.md)
 
 - Esta aplicación no recopila datos personales.
 
-## Términos de servicio
+## [Términos de servicio](terminos-de-servicio.md)
 
 - Esta aplicación es propiedad exclusiva de su desarrollador.
 
-### [Atención al cliente](mailto:rescates.jarrazo-7u@icloud.com?subject=Limpiador%20web)
+### [Atención al cliente](soporte.md)
